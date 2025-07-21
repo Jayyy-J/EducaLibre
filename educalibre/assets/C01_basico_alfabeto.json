@@ -1,0 +1,21 @@
+{
+  "id": "C01",
+  "title": "El Alfabeto",
+  "level": "basico",
+  "type": "text",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "El alfabeto español tiene 27 letras."
+    },
+    {
+      "type": "paragraph",
+      "text": "A, B, C, D, E, F, G, H, I, J, K, L, M, N, Ñ, O, P, Q, R, S, T, U, V, W, X, Y, Z."
+    }
+  ],
+  "quiz": {
+    "question": "¿Cuántas letras tiene el alfabeto español?",
+    "options": ["25", "27", "29"],
+    "answer": "27"
+  }
+}
